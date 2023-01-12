@@ -72,7 +72,7 @@ nav img img{
   
 }
 .section1 {
-  height: 800px;
+  height: 823px;
   width: 1280px;
   margin: 0 auto;
   background-color: #f9f2e5;
@@ -135,13 +135,60 @@ nav img img{
 }
 .twobuttons {
   float: left;
-  margin-left: 250px;
-  margin-top: 60px;
+  margin-left: 110px;
+  margin-top: 10px;
 }
 .twobuttonss {
   /* float: left;
   margin-left: 30px; */
+  background-color: #D8B687;
+  padding: 5px 10px;
+  color: white;
+  font-size:30px;
+  border-radius: 30px;
+  border: none;
 }
 .button2 img {
-  width: 16px;
+  width: 29px;
+  top: 3px;
+  left: 3px;
+  position: relative;
+}
+.bgcolorwhite {
+  background-color: white;
+  color: #707070;
+}
+.section1rightsidecircle {
+  width: 100px;
+  height: 100px;
+  background-color: #D8B687;
+  float: right;
+  margin-top: 100px;
+  border-radius: 50%;
+  margin-left: 30px;
+}
+.clearfloat {
+  clear: both;
+}
+.section2 {
+  width: 1280px;
+  margin: 0 auto;
+  height: 1000px;
+  background-color: #FEF9F3;
+  background-color: red;
+  /* border: 1px solid black; */
+  margin-top: 0px;
+  clear: both;
+  position: relative;
+  border-bottom: 1px solid black;
+}
+.section2paw1 {
+  margin-top: 20px;
+  margin-left: 20px;
+  
+  
+}
+.section2 h1 {
+  color: #7f5e3b;
+  font-size: 70px;
 }
