@@ -173,9 +173,9 @@ nav img img{
 .section2 {
   width: 1280px;
   margin: 0 auto;
-  height: 1000px;
+  height: 650px;
   background-color: #FEF9F3;
-  background-color: red;
+  /* background-color: red; */
   /* border: 1px solid black; */
   margin-top: 0px;
   clear: both;
@@ -190,5 +190,53 @@ nav img img{
 }
 .section2 h1 {
   color: #7f5e3b;
-  font-size: 70px;
+  font-size: 47px;
+  text-align: center;
+}
+.section2 p{
+  text-align: center;
+    left: 0px;
+    position: relative;
+    /* margin-top: 0; */
+    margin-top: -20px;
+    
+    color: #707070;
+    font-size: 20px;
+}
+.section2-text {
+  /* background-color: cyan; */
+  width: 775px;
+  margin-left: 50px;
+}
+.section2-paw2{
+  /* transform: rotate(40deg); */
+  width: 150px;
+  margin-left: 90px;
+  float: left;
+}
+.section2-paw3 {
+  float: right;
+  margin-right: 500px;
+  margin-top: 65px;
+}
+.dogcircle {
+  height: 400px;
+  width: 400px;
+  background-color: #D8B687;
+  float: right;
+  margin-top: -460px;
+  margin-right: 45px;
+  border-radius: 50%;
+  /* position: absolute; */
+}
+.dogimg {
+  float: right;
+  clear: both;
+  margin-top: -50px;
+  position: absolute;
+}
+.dog-button {
+  margin-left: 75px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
