@@ -379,6 +379,9 @@ footer img{
 .list li{
   padding-bottom: 10px;
 }
+.list a{
+  text-decoration: none;
+}
 .footerpaw {
   right: 520px;
   display: inline;
