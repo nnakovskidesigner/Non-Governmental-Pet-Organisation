@@ -241,7 +241,6 @@ nav img img{
   padding-right: 40px;
 }
 .thirdsection {
-  background-color: #f9f2e5;
   height: 437px;
   width: 1280px;
   margin: 0 auto;
@@ -388,5 +387,102 @@ footer img{
   position: absolute;
   margin-top: 50px;
 }
+.donations {
+  height: 450px;
+  width: 1280px;
+  margin: 0 auto;
+}
+.firstdonationcard {
+  left: 20px;
+    background-color:#f9f2e5;
+    height: 370px;
+    width: 340px;
+    float: left;
+    margin-right: 41px;
+    border-radius: 50px;
+    margin-top: 40px;
+    /* box-shadow: 3px 4px 5px 0px rgb(0 0 0 / 75%);
+    -webkit-box-shadow: 3px 4px 5px 0px rgb(0 0 0 / 75%);
+    -moz-box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75); */
+    text-align: center;
+    font-size: 35px;
+    float: left;
+    
 
-
+    margin-left: 132px;
+    padding-right: 30px;
+}
+.seconddonationcard {
+  margin-left: -85px;
+    background-color: #D8B687;
+    color: white;
+    height: 401px;
+    bottom: 17px;
+    position: relative;
+    width: 365px;
+    float: left;
+    margin-right: 41px;
+    border-radius: 50px;
+    margin-top: 40px;
+    box-shadow: 3px 4px 5px 0px rgb(0 0 0 / 75%);
+    -webkit-box-shadow: 3px 4px 5px 0px rgb(0 0 0 / 75%);
+    -moz-box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
+    text-align: center;
+    font-size: 35px;
+    float: left;
+}
+.thirddonationcard{
+  margin-left: 0px;
+    background-color:#f9f2e5;
+    height: 370px;
+    width: 340px;
+    float: left;
+    margin-right: 41px;
+    border-radius: 50px;
+    margin-top: 40px;
+    /* box-shadow: 3px 4px 5px 0px rgb(0 0 0 / 75%);
+    -webkit-box-shadow: 3px 4px 5px 0px rgb(0 0 0 / 75%);
+    -moz-box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75); */
+    text-align: center;
+    font-size: 35px;
+    float: left;
+}
+.donations button {
+  height: 80px;
+  width: 280px;
+  border-radius: 50px;
+  /* color: white; */
+  font-size: 45px;
+  border: none;
+  font-family: 'comfortaa';
+  background-color: #D8B687;
+}
+.donatebutton2 {
+  height: 80px;
+  width: 280px;
+  border-radius: 50px;
+  font-size: 45px;
+  border: none;
+  font-family: 'comfortaa';
+  background-color: white !important;
+  color: black;
+}
+.firstdonationcard button {
+  color: white;
+}
+.sectiondonationcard button {
+  color: black !important;
+}
+.donatebutton3{
+  color: white;
+}
+.thirddonationcard {
+  margin-left: -90px;
+  padding-left: 40px;
+}
+.thirdsection {
+  /* background-color: #fef9f3;
+} */
+.firstdonationcard, .thirddonationcard{
+  background-color: #fef9f3;
+}
