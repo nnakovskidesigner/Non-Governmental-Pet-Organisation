@@ -26,24 +26,26 @@ nav h3 {
   padding-left: 10px;
   float: left;
 }
-nav ul{
-  float: left;
+nav ul {
+  /* float: left; */
   list-style-type: none;
   margin-left: 60px;
+  
 }
-nav ul li{
+nav ul li {
   float: left;
   padding-left: 25px;
   font-size: 30px;
   margin-top: 10px;
+  padding-top: 10px;
+  padding-left: 60px;
 }
-nav img img{
+nav img img {
   width: 16px;
 }
 .floatedright {
   float: right;
   margin-top: 17px;
-
 }
 .floatedright img {
   width: 30px;
