@@ -264,6 +264,16 @@ nav img img {
 -webkit-box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
 }
+.firstsquare:hover {
+  background-color: white;
+  color: black;
+}
+.secondsquare:hover {
+  background-color: #D8B687;
+}
+.thirdsquare:hover {
+  background-color: #D8B687;
+}
 .secondsquare, .thirdsquare {
   margin-top: 40px;
   background-color: #FEF9F3;
@@ -320,12 +330,19 @@ footer {
   background-color: #f9f2e5;
   margin: 0 auto;
 }
+nav ul a{
+  text-decoration: none;
+  color: black;
+}
 footer h3{
   font-size: 35px;
   padding-top: 20px;
   position: relative;
   padding-left: 20px;
   margin-top: 20px;
+}
+.lefrmargin123 {
+  margin-left: 41px;
 }
 footer input{
   background-color: #f9f2e5;
@@ -391,7 +408,7 @@ footer img{
   margin-top: 50px;
 }
 .donations {
-  height: 450px;
+  height: 1210px;
   width: 1280px;
   margin: 0 auto;
 }
@@ -483,9 +500,12 @@ footer img{
   margin-left: -90px;
   padding-left: 40px;
 }
-.thirdsection {
+/* .thirdsection {
   /* background-color: #fef9f3;
-} */
+} */ */
 .firstdonationcard, .thirddonationcard{
   background-color: #fef9f3;
+}
+.givethiswitdth {
+  width: 320px;
 }
